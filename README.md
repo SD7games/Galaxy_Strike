@@ -2,6 +2,9 @@
 A cinematic gameplay prototype made in Unity, built around Timeline-driven sequences, scripted motion tracks and animated encounters.  
 The project focuses on cutscene-style gameplay, character interactions, camera work and environmental presentation.
 
+**Platform:** PC build only (Terrain is not supported on WebGL)  
+**Length:** ~2 minutes of scripted cinematic gameplay
+
 ---
 
 ## 🎮 Gameplay Overview  
@@ -22,7 +25,7 @@ The project demonstrates:
 ## ⭐ Key Features  
 
 ### 🎬 Timeline as the Core System  
-- Recorded movement tracks for player and enemies  
+- Recorded movement tracks for the player and enemies  
 - Multiple Timelines controlling gameplay sequences  
 - Custom **Timeline Signals** triggering:  
   - UI messages  
@@ -33,27 +36,27 @@ The project demonstrates:
 
 ### 🚀 Scripted Enemy Encounters  
 - Enemies do **not** use AI  
-- All movement is **hand-crafted and animated** through Timeline  
+- All movement is **hand-crafted and animated** via Timeline  
 - Flight paths built from animation curves to simulate cinematic attacks  
 - Coordinated enemy entrances, passes and exits  
 
 ### 🎥 Cinematic Camera Work  
-- Multiple virtual cameras synced with Timeline  
+- Multiple virtual cameras synced through Timeline  
 - Cutscene-style switching  
 - Tracking shots, zooms and dramatic angles  
-- Character portraits animated during dialogue events  
+- Animated character portraits during dialogue scenes  
 
 ### 🌌 Environment & Visuals  
-- Custom **Terrain** (PC-only, not WebGL compatible)  
-- Trees, fog, atmosphere lighting  
-- VFX: explosions, thrusters, sparks  
-- SFX: engine, impacts, UI audio  
-- Post-processing: bloom, color grading, depth-of-field  
+- Custom **Terrain** (PC-only)  
+- Sky, fog, lighting and atmosphere  
+- VFX: explosions, thrusters, impacts  
+- SFX: engine sounds, weapon effects, UI audio  
+- **Post-processing:** bloom, color grading, depth-of-field, vignette  
 
 ### 🖥 UI & Presentation  
 - Simple UI for early prototype  
 - Dialogue portraits animated through Timeline  
-- Signal-triggered UI prompts and overlays  
+- Signal-triggered text prompts and overlays  
 
 ---
 
@@ -63,7 +66,7 @@ The project demonstrates:
 - **Unity Timeline** (core system)  
 - Timeline Signals  
 - Cinemachine  
-- Scripted motion tracks  
+- Scripted animation/motion tracks  
 - Custom VFX/SFX  
 - Terrain tools  
 - Basic UI  
@@ -107,6 +110,6 @@ The project demonstrates:
 
 ## 👨‍💻 Developer  
 **Oleksandr Tokarev** — Unity & C# Game Developer based in Finland.  
-A cinematic prototype created to practice Timeline-driven gameplay, scripted movement tracks, cameras and environmental presentation.
+A cinematic prototype created to practice Timeline-driven gameplay, scripted movement tracks, camera work and environmental presentation.
 
 
