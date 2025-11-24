@@ -92,10 +92,10 @@ The project demonstrates:
 ---
 
 📸 Screenshots
-🌌 Intro Flight Through the Canyon
-<p align="center"> <img src="Start Level.png" width="640"/> </p>
 🔧 Loading Screen
 <p align="center"> <img src="Loading Scene.png" width="640"/> </p>
+🌌 Intro Flight Through the Canyon
+<p align="center"> <img src="Start Level.png" width="640"/> </p>
 🚀 First Encounter With Enemy Fighters
 <p align="center"> <img src="First Enemies.png" width="640"/> </p>
 🛰 AI Companion Dialogue (Animated Portrait)
