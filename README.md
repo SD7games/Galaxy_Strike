@@ -91,8 +91,17 @@ The project demonstrates:
 
 ---
 
-## 📸 Screenshots  
-*(Upload PNG files and I will format this section like your other projects.)*
+📸 Screenshots
+🌌 Intro Flight Through the Canyon
+<p align="center"> <img src="Start Level.png" width="640"/> </p>
+🔧 Loading Screen
+<p align="center"> <img src="Loading Scene.png" width="640"/> </p>
+🚀 First Encounter With Enemy Fighters
+<p align="center"> <img src="First Enemies.png" width="640"/> </p>
+🛰 AI Companion Dialogue (Animated Portrait)
+<p align="center"> <img src="AI Helper.png" width="640"/> </p>
+🏆 Final Scene — Mission Complete
+<p align="center"> <img src="Game Completed.png" width="640"/> </p>
 
 ---
 
