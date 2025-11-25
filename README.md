@@ -5,6 +5,11 @@ The project focuses on cutscene-style gameplay, character interactions, camera w
 **Platform:** PC build only (Terrain is not supported on WebGL)  
 **Length:** ~2 minutes of scripted cinematic gameplay
 
+⬇️ Download
+
+PC Build (itch.io):
+👉 https://sd7games.itch.io/galaxy-strike
+
 ---
 
 ## 🎮 Gameplay Overview  
